@@ -1,0 +1,20 @@
+apiVersion: node.k8s.io/v1
+kind: RuntimeClass
+metadata:
+  name: wasmedge
+handler: wasmedge
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: circle-wasm
+spec:
+  template:
+    spec:
+      containers:
+        - name: circle
+          image: docker.io/jan986/circle-wasm:0.1.0
+          args: ["10.0"]
+      runtimeClassName: wasmedge
+      restartPolicy: Never
+  backoffLimit: 0

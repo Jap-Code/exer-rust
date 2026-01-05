@@ -1,0 +1,21 @@
+stages:
+  - build
+
+image_build:
+  stage: build
+  image: docker:latest
+  services:
+    - docker:dind
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_TLS_CERTDIR: ""
+  before_script:
+    - docker login -u $DOCKER_HUB_U -p $DOCKER_HUB_P
+    - echo $DOCKER_HUB_P | docker login --username $DOCKER_HUB_U --password-stdin
+  script:
+    - docker context create wasm-context
+    - docker context use wasm-context
+    - docker buildx create --name wasm-builder --driver docker-container --use
+    - docker buildx build --platform=wasi/wasm -t $DOCKER_HUB_U/circle-wasm:0.1.0 --push .
+  rules:
+    - if: $CI_COMMIT_BRANCH == 'main'

@@ -1,0 +1,12 @@
+/Users/jan/Desktop/rust/rust-book/projects/scribble/target/debug/deps/gcore-e2bf8259eb0b8ee6.d: /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/lib.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/errors.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/exec.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/msg.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/prog.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/utils.rs
+
+/Users/jan/Desktop/rust/rust-book/projects/scribble/target/debug/deps/libgcore-e2bf8259eb0b8ee6.rlib: /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/lib.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/errors.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/exec.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/msg.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/prog.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/utils.rs
+
+/Users/jan/Desktop/rust/rust-book/projects/scribble/target/debug/deps/libgcore-e2bf8259eb0b8ee6.rmeta: /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/lib.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/errors.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/exec.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/msg.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/prog.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/utils.rs
+
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/lib.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/errors.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/exec.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/msg.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/prog.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gcore-1.9.0/src/utils.rs:

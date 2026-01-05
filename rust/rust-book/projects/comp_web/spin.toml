@@ -1,0 +1,18 @@
+spin_manifest_version = 2
+
+[application]
+name = "comp-web"
+version = "0.1.0"
+authors = ["Jan <jan.andre.patzke@gmail.com>"]
+description = ""
+
+[[trigger.http]]
+route = "/..."
+component = "comp-web"
+
+[component.comp-web]
+source = "target/wasm32-wasip1/release/comp_web.wasm"
+allowed_outbound_hosts = []
+[component.comp-web.build]
+command = "cargo build --target wasm32-wasip1 --release"
+watch = ["src/**/*.rs", "Cargo.toml"]
