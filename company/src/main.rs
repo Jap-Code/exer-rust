@@ -23,6 +23,7 @@ enum Department {
     People,
 }
 
+// #[derive(Debug, Clone)]
 // struct Employee {
 //     name: String,
 //     surname: String,
