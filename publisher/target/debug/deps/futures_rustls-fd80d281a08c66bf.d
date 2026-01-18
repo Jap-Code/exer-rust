@@ -1,0 +1,11 @@
+/Users/jan/Desktop/rust/publisher/target/debug/deps/futures_rustls-fd80d281a08c66bf.d: /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/lib.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/client.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/mod.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/handshake.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/server.rs
+
+/Users/jan/Desktop/rust/publisher/target/debug/deps/libfutures_rustls-fd80d281a08c66bf.rlib: /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/lib.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/client.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/mod.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/handshake.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/server.rs
+
+/Users/jan/Desktop/rust/publisher/target/debug/deps/libfutures_rustls-fd80d281a08c66bf.rmeta: /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/lib.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/client.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/mod.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/handshake.rs /Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/server.rs
+
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/lib.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/client.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/mod.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/common/handshake.rs:
+/Users/jan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-rustls-0.26.0/src/server.rs:
